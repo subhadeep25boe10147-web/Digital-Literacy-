@@ -16,7 +16,7 @@ For building my student digital portfolio, I created profiles on GitHub, LinkedI
 On GitHub, I created a profile README that includes my name, branch, academic year, and my learning goals. On LinkedIn, I updated my education details, including my current degree and expected graduation year. These platforms together form the foundation of my digital portfolio.
 
 Over the next four years, I plan to regularly update my GitHub with projects, participate in coding challenges on HackerRank, and build a strong professional network through LinkedIn. This will help me prepare for internships and job opportunities while showcasing my skills and achievements effectively.
-
+https://linktw.in/bsPDAt  
 
 TASK 3:
 
