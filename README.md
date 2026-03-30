@@ -7,6 +7,8 @@ The design highlights important tools for students such as Google Docs, GitHub, 
 
 One interesting aspect of creating the infographic was learning how to present complex ideas in a visually simple and engaging way. The most challenging part was selecting the right layout and balancing text with visuals so that the content remains clear without overcrowding the design. Overall, this task improved my ability to communicate information effectively through visuals.
 [digital literacy project.pptx](https://github.com/user-attachments/files/26222746/digital.literacy.project.pptx)
+
+
 TASK 2:
 
 For building my student digital portfolio, I created profiles on GitHub, LinkedIn, and HackerRank. Each platform serves a unique purpose in building a professional online presence. GitHub is used to showcase coding projects and track my learning progress through repositories. LinkedIn helps in creating a professional identity where I can connect with peers, professors, and industry professionals. HackerRank is useful for practicing coding skills and improving problem-solving abilities.
@@ -61,6 +63,7 @@ Poor digital communication can lead to serious misunderstandings and missed oppo
 Such situations can be avoided by following basic email etiquette, such as using a clear subject line, maintaining a polite tone, and structuring the message properly. It is also important to proofread messages before sending them.
 
 This task helped me understand the importance of professional communication in academic and professional settings. I learned that even small details like greetings and sign-offs can make a significant difference in how a message is perceived.
+
 
 TASK 5:
 
